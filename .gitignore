@@ -1,0 +1,6 @@
+.env
+node_modules
+.vscode
+keys.json
+*.zip
+test.js
